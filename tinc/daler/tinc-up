@@ -1,2 +1,2 @@
 #!/usr/bin/env sh
-ifconfig $INTERFACE 192.168.6.11 netmask 255.255.255.0
+ifconfig $INTERFACE 192.168.6.25 netmask 255.255.255.0
